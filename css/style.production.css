@@ -68,7 +68,7 @@ button{
     border: none;
     /*takes the font from the outer container*/
     font-family: inherit;
-    /*styles the backgound color, font color, and text decoration (underline, etc) of the button*/
+    /*styles the background color, font color, and text decoration (underline, etc) of the button*/
     background-color: #ac3b61;
     color: #FFF;
     text-decoration: none;
@@ -116,7 +116,7 @@ button:hover, button:focus {
             box-sizing: border-box;
 }
 
-.profie__text   {
+.profile__text   {
     -webkit-box-flex: 1;
         -ms-flex: 1 1 100px;
             flex: 1 1 100px;

@@ -5,6 +5,13 @@
 * Browsers: last 2 version
 */
 
+/*
+COLORS USED
+
+TEXT COLOR (DARK GREY) #2B2B2B
+PRIMARY COLOR (dark pink) #ac3b61
+SECONDARY COLOR (mustard orange) #d1862b
+*/
 a{
     color: #ac3b61;
 }
@@ -128,6 +135,7 @@ button:hover, button:focus {
     display: flex;
     width: 100%;
     padding: 20px;
+    margin: 0 20px;
 }
 
 .page-header__item {
@@ -155,6 +163,7 @@ button:hover, button:focus {
     -ms-grid-columns: 1fr 20px 1fr 20px 1fr;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
+    margin: 0 50px;
 }
 
 .grid__item {
